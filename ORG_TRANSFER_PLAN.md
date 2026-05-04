@@ -10,16 +10,16 @@ Move these after the org exists.
 
 - [x] `9ruby-site`
 - [x] `9ruby-core`
-- [x] `nine-ruby-os`
+- [x] `ruby-os`
 - [x] `nine-ai`
 - [x] `nine-builder`
-- [x] `pitch-deck-generator`
+- [x] `pitch-deck`
 - [x] `drive-organizer`
 - [x] `rubix-browser`
 - [x] `ixr-agent`
 - [x] `ix-agent`
-- [x] `ixruby-platform`
-- [x] `ix-ruby-agency`
+- [x] `platform`
+- [x] `agency`
 - [x] `.github`
 
 ## Client Repos
@@ -29,17 +29,17 @@ Move client repos after confirming Vercel integrations.
 - [x] `novavox`
 - [x] `eyespecx`
 - [x] `delulu.kids`
-- [x] `cookies-delulu-kids`
+- [x] `delulu-cookies`
 - [x] `dbk-digitals`
 - [x] `nexlyn`
 - [x] `nexlyn-v2`
 - [x] `decaza`
 - [x] `research-directory`
-- [x] `misri-ayur-website`
-- [x] `leaforia-green-living-delivered`
+- [x] `misri-ayur`
+- [x] `leaforia`
 - [x] `chaiwala`
 - [x] `stitch-yoga`
-- [x] `taste-house-connect`
+- [x] `taste-house`
 - [x] `emoto-hub`
 
 ## Keep Personal
