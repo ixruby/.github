@@ -1,6 +1,6 @@
 # Organization Transfer Plan
 
-Target org: `9ruby`
+Target org: `ixruby`
 
 Prepared: 2026-05-04
 
@@ -8,39 +8,39 @@ Prepared: 2026-05-04
 
 Move these after the org exists.
 
-- `9ruby-site`
-- `9ruby-core`
-- `nine-ruby-os`
-- `nine-ai`
-- `nine-builder`
-- `pitch-deck-generator`
-- `drive-organizer`
-- `rubix-browser`
-- `ixr-agent`
-- `ix-agent`
-- `ixruby-platform`
-- `ix-ruby-agency`
-- `.github`
+- [x] `9ruby-site`
+- [x] `9ruby-core`
+- [x] `nine-ruby-os`
+- [x] `nine-ai`
+- [x] `nine-builder`
+- [x] `pitch-deck-generator`
+- [x] `drive-organizer`
+- [x] `rubix-browser`
+- [x] `ixr-agent`
+- [x] `ix-agent`
+- [x] `ixruby-platform`
+- [x] `ix-ruby-agency`
+- [x] `.github`
 
 ## Client Repos
 
 Move client repos after confirming Vercel integrations.
 
-- `novavox`
-- `eyespecx`
-- `delulu.kids`
-- `cookies-delulu-kids`
-- `dbk-digitals`
-- `nexlyn`
-- `nexlyn-v2`
-- `decaza`
-- `research-directory`
-- `misri-ayur-website`
-- `leaforia-green-living-delivered`
-- `chaiwala`
-- `stitch-yoga`
-- `taste-house-connect`
-- `emoto-hub`
+- [x] `novavox`
+- [x] `eyespecx`
+- [x] `delulu.kids`
+- [x] `cookies-delulu-kids`
+- [x] `dbk-digitals`
+- [x] `nexlyn`
+- [x] `nexlyn-v2`
+- [x] `decaza`
+- [x] `research-directory`
+- [x] `misri-ayur-website`
+- [x] `leaforia-green-living-delivered`
+- [x] `chaiwala`
+- [x] `stitch-yoga`
+- [x] `taste-house-connect`
+- [x] `emoto-hub`
 
 ## Keep Personal
 
@@ -64,3 +64,13 @@ Keep these on the user account.
 - Re-check branch protection.
 - Re-check repo topics.
 - Update `project-registry.json`.
+
+## Current Status
+
+Transferred on 2026-05-04.
+
+Org metadata set:
+
+- Name: Nine Ruby Management FZ-LLC
+- URL: https://www.9ruby.com
+- Location: Dubai
