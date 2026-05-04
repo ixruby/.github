@@ -52,18 +52,18 @@ Keep these on the user account.
 
 ## Before Transfer
 
-- Confirm org exists.
-- Confirm owner access.
-- Confirm Vercel project links.
-- Confirm GitHub token has `read:org`.
-- Update local remotes after transfer.
+- [x] Confirm org exists.
+- [x] Confirm owner access.
+- [x] Confirm Vercel project links.
+- [x] Confirm GitHub token has `read:org`.
+- [x] Update local remotes after transfer.
 
 ## After Transfer
 
-- Re-check Vercel deployments.
-- Re-check branch protection.
-- Re-check repo topics.
-- Update `project-registry.json`.
+- [x] Re-check Vercel deployments.
+- [x] Re-check branch protection.
+- [x] Re-check repo topics.
+- [x] Update `project-registry.json`.
 
 ## Current Status
 
